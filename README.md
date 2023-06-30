@@ -3,7 +3,9 @@
 # Ramtin Kazemi
 
 US Citizen
+
 Email: rkazemi@ucsd.edu, ramkazemi@yahoo.com
+
 Phone: +1-(858)261-1206
 
 ## Education
