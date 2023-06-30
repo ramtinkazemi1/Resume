@@ -6,7 +6,6 @@ US Citizen
 
 Email: ramkazemi@yahoo.com , rkazemi@ucsd.edu
 
-Phone: +1-(858)261-1206
 
 ## Education
 
