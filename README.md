@@ -17,6 +17,7 @@ Coursework:
 - Software Engineering
 - Advanced data structures in C++ (earned an A)
 - Design and Analysis of Algorithms
+- Web Developement
 - Agile methodologies
 - Data Science in practice (Pandas, Matplotlib, NumPy, etc.)
 - Advanced data structures in Java
