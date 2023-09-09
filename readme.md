@@ -2,7 +2,7 @@
 
 # Ramtin Kazemi
 
-US Citizen
+As a fun, disciplined, and detail-oriented Computer Science graduate, I've mastered data structures and built a solid foundation in Java, Python, and JavaScript. Currently, I'm learning Django and am eagerly anticipating the opportunity to tackle fresh challenges in my future role as a web developer or software engineer. My passion for continuous learning drives me, and I am fully prepared to make valuable contributions to a high-achieving team.
 
 Email: ramkazemi@yahoo.com , rkazemi@ucsd.edu
 
