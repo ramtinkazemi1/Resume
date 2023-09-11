@@ -65,7 +65,7 @@ August 2018 – March 2020
 - Developed and optimized code for backpropagation, accurately computing gradients through numerical approximations and ensuring successful weight updates.
 - Explored regularization techniques, such as L2 and L1 regularization, to control overfitting and improve network performance. Investigated different activation functions, including sigmoid and ReLU, to assess their impact on training accuracy. Conducted experiments on network topology by adjusting the number of hidden units and layers, analyzing their effects on performance metrics.
 
-**UCSD Mapbox** - JS, React.js, Node.js, MapboxGL, PostgreSQL, Express
+**UCSD Mapbox https://ramtinmap.netlify.app/** - JS, React.js, Node.js, MapboxGL, PostgreSQL, Express
 
 - Full Stack Development: Created both frontend and backend of the application, using modern web technologies including React.js for the frontend and Node.js/Express.js for the backend, showcasing versatility as a full-stack developer.
 - Interactive Map and Website Development: Developed an intuitive interface integrating Mapbox APIs, enabling users to pinpoint and report issues directly on the map. Key features include a 'Find Me' function for identifying the user's exact location and a form for describing the issue and specifying its urgency level. Additionally, designed and built a hosting website, incorporating smooth scroll navigation, custom styling, and a team section. All these were accomplished after conducting comprehensive research to understand the optimal use of Mapbox APIs and ensuring official project management.
