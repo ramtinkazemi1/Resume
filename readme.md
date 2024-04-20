@@ -7,8 +7,7 @@ As a disciplined and detail-oriented Computer Science graduate, I've mastered da
 - **Email:** ramkazemi@yahoo.com , rkazemi@ucsd.edu
 - **Phone:** 858.261.1206
 - **Location:** San Diego, CA
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **LinkedIn:** [LINK](https://www.linkedin.com/in/ramtinkazemi1)
 
 ### Education
 
@@ -104,14 +103,14 @@ Master of Science in Cyber Security Engineering
 - **CIFAR-10 Neural Network Classification**: [GitHub Repository](https://github.com/ramtinkazemi1/CIFAR-10-MultiLayerNN-Classification)
 - **UCSD Mapbox**: [Project Website](https://ramtinmap.netlify.app/)
 - - **Ordering and Filtering using BST**: [GitHub Repository](https://github.com/ramtinkazemi1/BST)
-- **Maze Solver (Dijkstra)** - Java, Junit, Data structures
+- **Maze Solver (Dijkstra)** - Java, Junit, Data structures [GitHub Repository](https://github.com/ramtinkazemi1/maze-solver)
     - Implemented Dijkstra's algorithm with a priority queue structure (heap) in this project to minimize the cost from the start square to the finish square. Utilized the cost attribute assigned to each square to determine the most efficient path based on the current total cost.
-- **Transitive Closure Calculation** - JDBC, PostgreSQL
+- **Transitive Closure Calculation** - [GitHub Repository](https://github.com/ramtinkazemi1/Transitive-Closure-Calculator)
     - Developed a Java program using JDBC to compute the transitive closure of a database relation representing fund transfers between accounts. Leveraged SQL commands executed directly on the PostgreSQL server to efficiently manipulate data and minimize data transfers between the Java program and the database. Implemented semi-naive evaluation with logarithmic convergence to perform the computation, storing the results in the influence table at the server.
 - **File System Management and Filtering** - Java, Data structure
     - Developed a comprehensive file system management and filtering system with the goal of efficient organization and retrieval of file information.
     - Implemented a custom DefaultMap using a binary search tree, enabling fast key-value pair storage and retrieval operations. Designed the FileSystem class to facilitate seamless management of the entire file system structure, including functionalities such as file addition, date-based file filtering, and wildcard-based file filtering.
-- **CIFAR-10 Classification with Multi-layer Neural Networks** - Python, Deep Learning Concepts
+- **CIFAR-10 Classification with Multi-layer Neural Networks** - [GitHub Repository](https://github.com/ramtinkazemi1/CIFAR-10-MultiLayerNN-Classification)
     - Led a team project focused on implementing multi-layer neural networks with softmax outputs to classify the CIFAR-10 dataset.
     - Developed and optimized code for backpropagation, accurately computing gradients through numerical approximations and ensuring successful weight updates.
     - Explored regularization techniques, such as L2 and L1 regularization, to control overfitting and improve network performance. Investigated different activation functions, including sigmoid and ReLU, to assess their impact on training accuracy. Conducted experiments on network topology by adjusting the number of hidden units and layers, analyzing their effects on performance metrics.
