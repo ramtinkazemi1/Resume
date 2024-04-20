@@ -22,42 +22,6 @@ Master of Science in Cyber Security Engineering
 - Agile with Atlassian Jira  
 - AWS Certified Developer Associate (pending)  
 
-### Technical Skills
-
-**Languages:**  
-- Python (Django, Flask, SQLAlchemy, Requests)  
-- Java  
-- SQL  
-- JavaScript  
-- C/C++
-- HTML
-- CSS
-- R
-- bash/Linux
-- Assembly
-
-**Developer Tools:**  
-- Git  
-- Linux  
-- Amazon Web Services  
-- Vim  
-- Jira  
-- GNU Debugger  
-- VS Code  
-
-**Concepts:**  
-- Data Structures & Algorithms  
-- Data Science  
-- Database  
-- Operating System Design  
-
-**Frameworks & Libraries:**  
-- React  
-- Node.js  
-- Express.js  
-- NumPy  
-- Pandas  
-- Matplotlib  
 
 ### Experience
 
@@ -116,3 +80,39 @@ Master of Science in Cyber Security Engineering
     - Explored regularization techniques, such as L2 and L1 regularization, to control overfitting and improve network performance. Investigated different activation functions, including sigmoid and ReLU, to assess their impact on training accuracy. Conducted experiments on network topology by adjusting the number of hidden units and layers, analyzing their effects on performance metrics.
 
 
+### Technical Skills
+
+**Languages:**  
+- Python (Django, Flask, SQLAlchemy, Requests)  
+- Java  
+- SQL  
+- JavaScript  
+- C/C++
+- HTML
+- CSS
+- R
+- bash/Linux
+- Assembly
+
+**Developer Tools:**  
+- Git  
+- Linux  
+- Amazon Web Services  
+- Vim  
+- Jira  
+- GNU Debugger  
+- VS Code  
+
+**Concepts:**  
+- Data Structures & Algorithms  
+- Data Science  
+- Database  
+- Operating System Design  
+
+**Frameworks & Libraries:**  
+- React  
+- Node.js  
+- Express.js  
+- NumPy  
+- Pandas  
+- Matplotlib  
