@@ -9,7 +9,7 @@ As a disciplined and detail-oriented Computer Science graduate, I've mastered da
 - **Location:** San Diego, CA
 - **LinkedIn:** [LINK](https://www.linkedin.com/in/ramtinkazemi1)
 
-### <span style="color:blue">Education</span>
+### Education
 
 **University of California, San Diego** - La Jolla, CA  
 Bachelor of Science in Computer Science  
